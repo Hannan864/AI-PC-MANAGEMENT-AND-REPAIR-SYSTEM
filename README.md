@@ -188,10 +188,3 @@ npm run dev
 - `GET /user` — Retrieve authenticated user profile
 
 ---
-
-## 💡 Interview Discussion Points & Trade-offs
-
-When discussing this architecture in senior engineering interviews, highlight these key decisions:
-1. **Handling Single-Threaded Dev Servers:** When testing against PHP's built-in single-threaded server, rapid polling caused request starvation. We resolved this by implementing **adaptive rate throttling** and **idle detection** in `TelemetryStreamManager`.
-2. **Eliminating Layout Thrashing:** By enforcing a strict `defaultValue` pattern in `useCachedQuery`, we eliminated all conditional loading spinners (`if (loading) return <Spinner />`), improving perceived performance to instantaneous.
-3. **Resilient Transport Fallback:** Graceful degradation from WebSockets to long-polling ensures telemetry pipelines never drop even behind restrictive corporate firewalls or unstable proxies.

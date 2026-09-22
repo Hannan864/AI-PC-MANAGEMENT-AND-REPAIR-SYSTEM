@@ -1,0 +1,517 @@
+{
+    "health": {
+        "data": {
+            "cpu": 9.9,
+            "ram": {
+                "usedPercent": 76.8,
+                "freeMB": 1829,
+                "totalMB": 7884
+            },
+            "disk": {
+                "usedPercent": 68.3,
+                "freeGB": 47.63,
+                "totalGB": 150.05
+            },
+            "networkUp": 0,
+            "networkDown": 0,
+            "uptime": "3h 12m",
+            "backendStatus": "Online",
+            "databaseStatus": "Connected",
+            "serverTime": "2026-08-17T14:01:36+05:00",
+            "phpVersion": "8.3.33",
+            "laravelVersion": "11.55.0",
+            "os": "WINNT"
+        },
+        "updated_at": 1786957296
+    },
+    "performance": {
+        "data": {
+            "cpu": 17.6,
+            "ram": {
+                "usedPercent": 76.4,
+                "freeMB": 1858,
+                "totalMB": 7884
+            },
+            "disk": {
+                "usedPercent": 68.3,
+                "freeGB": 47.63,
+                "totalGB": 150.05
+            },
+            "performanceScore": 90,
+            "performanceHealth": "Excellent",
+            "serverTime": "2026-08-17T14:01:39+05:00"
+        },
+        "updated_at": 1786957299
+    },
+    "processes": {
+        "data": {
+            "processes": [
+                {
+                    "name": "freebuff.exe",
+                    "pid": 7332,
+                    "ramMB": 462.6,
+                    "threads": 18,
+                    "status": "Running",
+                    "impact": "Medium",
+                    "cpuPercent": 0
+                },
+                {
+                    "name": "MsMpEng.exe",
+                    "pid": 3104,
+                    "ramMB": 324.5,
+                    "threads": 32,
+                    "status": "Running",
+                    "impact": "Medium",
+                    "cpuPercent": 0
+                },
+                {
+                    "name": "opera.exe",
+                    "pid": 11792,
+                    "ramMB": 302.9,
+                    "threads": 50,
+                    "status": "Running",
+                    "impact": "Medium",
+                    "cpuPercent": 3
+                },
+                {
+                    "name": "Code.exe",
+                    "pid": 7152,
+                    "ramMB": 273.1,
+                    "threads": 16,
+                    "status": "Running",
+                    "impact": "Medium",
+                    "cpuPercent": 0
+                },
+                {
+                    "name": "explorer.exe",
+                    "pid": 7464,
+                    "ramMB": 260.6,
+                    "threads": 121,
+                    "status": "Running",
+                    "impact": "Medium",
+                    "cpuPercent": 0
+                },
+                {
+                    "name": "Memory Compression",
+                    "pid": 2908,
+                    "ramMB": 246.8,
+                    "threads": 38,
+                    "status": "Running",
+                    "impact": "Medium",
+                    "cpuPercent": 0
+                },
+                {
+                    "name": "opera.exe",
+                    "pid": 14584,
+                    "ramMB": 230.7,
+                    "threads": 15,
+                    "status": "Running",
+                    "impact": "Medium",
+                    "cpuPercent": 0
+                },
+                {
+                    "name": "opera.exe",
+                    "pid": 6748,
+                    "ramMB": 216.4,
+                    "threads": 16,
+                    "status": "Running",
+                    "impact": "Medium",
+                    "cpuPercent": 0
+                },
+                {
+                    "name": "Code.exe",
+                    "pid": 4600,
+                    "ramMB": 211.4,
+                    "threads": 30,
+                    "status": "Running",
+                    "impact": "Medium",
+                    "cpuPercent": 0
+                },
+                {
+                    "name": "opera.exe",
+                    "pid": 2248,
+                    "ramMB": 196.5,
+                    "threads": 16,
+                    "status": "Running",
+                    "impact": "Medium",
+                    "cpuPercent": 0
+                },
+                {
+                    "name": "Code.exe",
+                    "pid": 9564,
+                    "ramMB": 182.7,
+                    "threads": 65,
+                    "status": "Running",
+                    "impact": "Medium",
+                    "cpuPercent": 0
+                },
+                {
+                    "name": "opera.exe",
+                    "pid": 12912,
+                    "ramMB": 158,
+                    "threads": 15,
+                    "status": "Running",
+                    "impact": "Medium",
+                    "cpuPercent": 0
+                },
+                {
+                    "name": "opera.exe",
+                    "pid": 10780,
+                    "ramMB": 149.2,
+                    "threads": 16,
+                    "status": "Running",
+                    "impact": "Medium",
+                    "cpuPercent": 0
+                },
+                {
+                    "name": "opera.exe",
+                    "pid": 8032,
+                    "ramMB": 146.9,
+                    "threads": 15,
+                    "status": "Running",
+                    "impact": "Medium",
+                    "cpuPercent": 0
+                },
+                {
+                    "name": "opera.exe",
+                    "pid": 16280,
+                    "ramMB": 146.8,
+                    "threads": 15,
+                    "status": "Running",
+                    "impact": "Medium",
+                    "cpuPercent": 0
+                },
+                {
+                    "name": "node.exe",
+                    "pid": 15428,
+                    "ramMB": 142.3,
+                    "threads": 19,
+                    "status": "Running",
+                    "impact": "Medium",
+                    "cpuPercent": 0
+                },
+                {
+                    "name": "msedge.exe",
+                    "pid": 14108,
+                    "ramMB": 139.1,
+                    "threads": 60,
+                    "status": "Running",
+                    "impact": "Medium",
+                    "cpuPercent": 0
+                },
+                {
+                    "name": "Code.exe",
+                    "pid": 11832,
+                    "ramMB": 137.9,
+                    "threads": 32,
+                    "status": "Running",
+                    "impact": "Medium",
+                    "cpuPercent": 0
+                },
+                {
+                    "name": "Taskmgr.exe",
+                    "pid": 15520,
+                    "ramMB": 125.9,
+                    "threads": 21,
+                    "status": "Running",
+                    "impact": "Medium",
+                    "cpuPercent": 0
+                },
+                {
+                    "name": "Code.exe",
+                    "pid": 1728,
+                    "ramMB": 122.1,
+                    "threads": 18,
+                    "status": "Running",
+                    "impact": "Medium",
+                    "cpuPercent": 0
+                }
+            ],
+            "totalProcesses": 267,
+            "totalRamMB": 7884
+        },
+        "updated_at": 1786957305
+    },
+    "drives": {
+        "data": {
+            "drives": [
+                {
+                    "deviceId": "C:",
+                    "volumeName": "Windows",
+                    "fileSystem": "NTFS",
+                    "totalBytes": 161120325632,
+                    "freeBytes": 51146608640,
+                    "usedBytes": 109973716992,
+                    "totalGB": 150.05,
+                    "freeGB": 47.63,
+                    "usedGB": 102.42,
+                    "usedPercent": 68.3,
+                    "health": "Excellent",
+                    "driveType": "Local Disk",
+                    "isSystem": true,
+                    "readWrite": true,
+                    "mounted": true
+                },
+                {
+                    "deviceId": "E:",
+                    "volumeName": "New Volume",
+                    "fileSystem": "NTFS",
+                    "totalBytes": 185788788736,
+                    "freeBytes": 69037518848,
+                    "usedBytes": 116751269888,
+                    "totalGB": 173.03,
+                    "freeGB": 64.3,
+                    "usedGB": 108.73,
+                    "usedPercent": 62.8,
+                    "health": "Excellent",
+                    "driveType": "Local Disk",
+                    "isSystem": false,
+                    "readWrite": true,
+                    "mounted": true
+                },
+                {
+                    "deviceId": "D:",
+                    "volumeName": "Abdullah",
+                    "fileSystem": "NTFS",
+                    "totalBytes": 152604504064,
+                    "freeBytes": 67202019328,
+                    "usedBytes": 85402484736,
+                    "totalGB": 142.12,
+                    "freeGB": 62.59,
+                    "usedGB": 79.54,
+                    "usedPercent": 56,
+                    "health": "Excellent",
+                    "driveType": "Local Disk",
+                    "isSystem": false,
+                    "readWrite": true,
+                    "mounted": true
+                }
+            ],
+            "totalDrives": 3
+        },
+        "updated_at": 1786957306
+    },
+    "network": {
+        "data": {
+            "adapters": [
+                {
+                    "name": "Wireless LAN Local Area Connection* 1",
+                    "status": "Disconnected",
+                    "ipv4": "",
+                    "ipv6": "",
+                    "subnet": "",
+                    "gateway": "",
+                    "dns": "",
+                    "mac": "18-5E-0F-94-63-B8",
+                    "dhcp": true,
+                    "description": "Microsoft Wi-Fi Direct Virtual Adapter"
+                },
+                {
+                    "name": "Ethernet Ethernet",
+                    "status": "Connected",
+                    "ipv4": "10.8.0.195",
+                    "ipv6": "fe80::5dd0:63d3:58ed:6539%18",
+                    "subnet": "255.255.252.0",
+                    "gateway": "10.8.0.1",
+                    "dns": "192.168.20.12",
+                    "mac": "50-7B-9D-99-DF-09",
+                    "dhcp": true,
+                    "description": "Intel(R) Ethernet Connection (3) I218-LM"
+                },
+                {
+                    "name": "Wireless LAN Local Area Connection* 2",
+                    "status": "Connected",
+                    "ipv4": "192.168.137.1",
+                    "ipv6": "fe80::5865:8fa8:4427:e856%9",
+                    "subnet": "255.255.255.0",
+                    "gateway": "",
+                    "dns": "",
+                    "mac": "1A-5E-0F-94-63-B7",
+                    "dhcp": false,
+                    "description": "Microsoft Wi-Fi Direct Virtual Adapter #2"
+                },
+                {
+                    "name": "Wireless LAN Wi-Fi",
+                    "status": "Disconnected",
+                    "ipv4": "",
+                    "ipv6": "",
+                    "subnet": "",
+                    "gateway": "",
+                    "dns": "",
+                    "mac": "18-5E-0F-94-63-B7",
+                    "dhcp": true,
+                    "description": "Intel(R) Dual Band Wireless-AC 7265"
+                }
+            ],
+            "activeAdapter": {
+                "name": "Ethernet Ethernet",
+                "status": "Connected",
+                "ipv4": "10.8.0.195",
+                "ipv6": "fe80::5dd0:63d3:58ed:6539%18",
+                "subnet": "255.255.252.0",
+                "gateway": "10.8.0.1",
+                "dns": "192.168.20.12",
+                "mac": "50-7B-9D-99-DF-09",
+                "dhcp": true,
+                "description": "Intel(R) Ethernet Connection (3) I218-LM"
+            },
+            "latency": 44,
+            "dnsLatency": 40,
+            "netStats": {
+                "bytesReceived": 36069666,
+                "bytesSent": 2697160796,
+                "packetsReceived": 14594673,
+                "packetsSent": 14711488,
+                "errors": 0
+            },
+            "connectionQuality": "Good",
+            "gateway": "10.8.0.1",
+            "dns": "192.168.20.12",
+            "internetReachable": true,
+            "collectionDurationMs": 502,
+            "serverTime": "2026-08-17T14:01:46+05:00"
+        },
+        "updated_at": 1786957306
+    },
+    "fileStats": {
+        "data": {
+            "totalFiles": 2,
+            "totalFolders": 64,
+            "totalSizeGB": 0,
+            "averageFileSizeMB": 0,
+            "scanDurationMs": 240,
+            "scannedPath": "C:\\Users\\lenovo"
+        },
+        "updated_at": 1786957306
+    },
+    "hardware": {
+        "data": {
+            "cpu": {
+                "name": "Intel(R) Core(TM) i5-5300U CPU @ 2.30GHz",
+                "cores": 2,
+                "threads": 4,
+                "maxClockMHz": 2295,
+                "currentClockMHz": 2295
+            },
+            "gpu": {
+                "name": "Intel(R) HD Graphics 5500",
+                "vramMB": 1024,
+                "driverVersion": "20.19.15.4963",
+                "driverDate": "2018-02-21",
+                "status": "OK"
+            },
+            "bios": {
+                "manufacturer": "LENOVO",
+                "version": "JBET54WW (1.19 )",
+                "date": "2015-11-06"
+            },
+            "motherboard": {
+                "manufacturer": "LENOVO",
+                "model": "20BUA09BAR",
+                "serial": "L1HF61***"
+            },
+            "os": {
+                "name": "Microsoft Windows 11 Pro N",
+                "build": "22621",
+                "architecture": "64-bit",
+                "version": "10.0.22621"
+            },
+            "storage": {
+                "model": "ST500LM021-1KJ152",
+                "manufacturer": "(Standard disk drives)",
+                "capacityGB": 466,
+                "interface": "IDE",
+                "status": "OK"
+            },
+            "allGpus": [
+                {
+                    "name": "Intel(R) HD Graphics 5500",
+                    "vramMB": 1024,
+                    "driverVersion": "20.19.15.4963",
+                    "driverDate": "2018-02-21",
+                    "status": "OK"
+                }
+            ],
+            "allStorage": [
+                {
+                    "model": "ST500LM021-1KJ152",
+                    "manufacturer": "(Standard disk drives)",
+                    "capacityGB": 466,
+                    "interface": "IDE",
+                    "status": "OK"
+                }
+            ],
+            "ram": {
+                "totalGB": 8,
+                "sticks": [
+                    {
+                        "capacityGB": 4,
+                        "speedMHz": 1600,
+                        "manufacturer": "Samsung",
+                        "slot": "ChannelA-DIMM0",
+                        "type": "Unknown"
+                    },
+                    {
+                        "capacityGB": 4,
+                        "speedMHz": 1600,
+                        "manufacturer": "Samsung",
+                        "slot": "ChannelB-DIMM0",
+                        "type": "Unknown"
+                    }
+                ]
+            },
+            "network": {
+                "name": "TAP-Windows Adapter V9",
+                "manufacturer": "Unknown",
+                "driverVersion": "9.27.0.0"
+            },
+            "system": {
+                "manufacturer": "LENOVO",
+                "model": "20BUA09BAR",
+                "totalRam": "7,884 MB"
+            },
+            "hardwareHealth": "Excellent",
+            "hardwareScore": 100,
+            "scanDurationMs": 8274,
+            "serverTime": "2026-08-17T14:01:19+05:00"
+        },
+        "updated_at": 1786957279
+    },
+    "security": {
+        "data": {
+            "score": 97,
+            "defenderEnabled": true,
+            "firewallProfiles": [
+                {
+                    "profile": "Domain",
+                    "state": "ON"
+                },
+                {
+                    "profile": "Private",
+                    "state": "ON"
+                },
+                {
+                    "profile": "Public",
+                    "state": "ON"
+                }
+            ],
+            "services": [
+                {
+                    "name": "Windows Update",
+                    "status": "Stopped"
+                },
+                {
+                    "name": "Windows Defender",
+                    "status": "Running"
+                },
+                {
+                    "name": "User Account Control",
+                    "status": "Enabled"
+                }
+            ],
+            "events": [],
+            "lastScan": "2026-08-17T14:01:21+05:00"
+        },
+        "updated_at": 1786957281
+    }
+}

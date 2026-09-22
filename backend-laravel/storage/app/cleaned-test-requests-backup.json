@@ -1,0 +1,234 @@
+{
+    "exported_at": "2026-08-12T07:35:54+00:00",
+    "note": "Test repair requests removed from customer1@smartpchub.test on request.",
+    "repair_requests": [
+        {
+            "id": "a27a5188-41d6-4621-b0d5-1cc5f042776d",
+            "user_id": "9eae441f-d771-42bd-ae61-e9604a745524",
+            "technician_id": null,
+            "issue_category": "Hardware",
+            "issue_description": "My PC is broken and needs repair",
+            "severity_level": "medium",
+            "status": "submitted",
+            "system_specifications": null,
+            "user_images": null,
+            "tech_images": null,
+            "created_at": "2026-08-11 20:32:55",
+            "updated_at": "2026-08-11 20:32:55",
+            "gig_title": "Test Repair"
+        },
+        {
+            "id": "a27a51c6-c083-44ed-aef6-2d7ed46afe82",
+            "user_id": "9eae441f-d771-42bd-ae61-e9604a745524",
+            "technician_id": null,
+            "issue_category": "PERFORMANCE_ISSUE",
+            "issue_description": "My PC is running very slow and keeps freezing during normal tasks",
+            "severity_level": "high",
+            "status": "submitted",
+            "system_specifications": null,
+            "user_images": null,
+            "tech_images": null,
+            "created_at": "2026-08-11 20:33:36",
+            "updated_at": "2026-08-11 20:33:36",
+            "gig_title": "Test Gig"
+        },
+        {
+            "id": "a27a5234-a9c6-48ba-b2b8-34bd5c428c57",
+            "user_id": "9eae441f-d771-42bd-ae61-e9604a745524",
+            "technician_id": null,
+            "issue_category": "HARDWARE_ISSUE",
+            "issue_description": "My laptop screen keeps flickering and becomes unresponsive periodically",
+            "severity_level": "medium",
+            "status": "cancelled",
+            "system_specifications": null,
+            "user_images": null,
+            "tech_images": null,
+            "created_at": "2026-08-11 20:34:48",
+            "updated_at": "2026-08-12 12:27:55",
+            "gig_title": "Screen Repair Service"
+        },
+        {
+            "id": "a27a52ec-22ee-4c67-b1f3-8fed7a8d4964",
+            "user_id": "9eae441f-d771-42bd-ae61-e9604a745524",
+            "technician_id": null,
+            "issue_category": "HARDWARE_ISSUE",
+            "issue_description": "jjhhggggjk.bhghgvgfv",
+            "severity_level": "medium",
+            "status": "submitted",
+            "system_specifications": null,
+            "user_images": "[\"repair-requests\\/user-images\\/DH5FrG6pErNt0HzJnBmpMiBVAuLwVbisJAPLcg1z.jpg\"]",
+            "tech_images": null,
+            "created_at": "2026-08-11 20:36:49",
+            "updated_at": "2026-08-11 20:36:49",
+            "gig_title": "Telemetry Calibration Services"
+        },
+        {
+            "id": "a27b55dc-f0e5-4f28-9495-8b39f511c170",
+            "user_id": "9eae441f-d771-42bd-ae61-e9604a745524",
+            "technician_id": null,
+            "issue_category": "Network",
+            "issue_description": "jijkgjghjgjygh",
+            "severity_level": "medium",
+            "status": "submitted",
+            "system_specifications": null,
+            "user_images": null,
+            "tech_images": null,
+            "created_at": "2026-08-12 08:40:52",
+            "updated_at": "2026-08-12 08:40:52",
+            "gig_title": "heyyyy"
+        },
+        {
+            "id": "a27ba111-b1c0-44f5-af0a-6b03ce43e65f",
+            "user_id": "9eae441f-d771-42bd-ae61-e9604a745524",
+            "technician_id": null,
+            "issue_category": "Network",
+            "issue_description": "ifhfuieghusfhgusjg",
+            "severity_level": "medium",
+            "status": "submitted",
+            "system_specifications": null,
+            "user_images": null,
+            "tech_images": null,
+            "created_at": "2026-08-12 12:11:10",
+            "updated_at": "2026-08-12 12:11:10",
+            "gig_title": "heyyyy"
+        }
+    ],
+    "lifecycle_events": [
+        {
+            "id": 1,
+            "repair_request_id": "a27a5188-41d6-4621-b0d5-1cc5f042776d",
+            "status": "submitted",
+            "updated_by": "9eae441f-d771-42bd-ae61-e9604a745524",
+            "note": "Repair request submitted.",
+            "created_at": "2026-08-11 20:32:56"
+        },
+        {
+            "id": 2,
+            "repair_request_id": "a27a51c6-c083-44ed-aef6-2d7ed46afe82",
+            "status": "submitted",
+            "updated_by": "9eae441f-d771-42bd-ae61-e9604a745524",
+            "note": "Repair request submitted.",
+            "created_at": "2026-08-11 20:33:37"
+        },
+        {
+            "id": 3,
+            "repair_request_id": "a27a5234-a9c6-48ba-b2b8-34bd5c428c57",
+            "status": "submitted",
+            "updated_by": "9eae441f-d771-42bd-ae61-e9604a745524",
+            "note": "Repair request submitted.",
+            "created_at": "2026-08-11 20:34:49"
+        },
+        {
+            "id": 7,
+            "repair_request_id": "a27a5234-a9c6-48ba-b2b8-34bd5c428c57",
+            "status": "cancelled",
+            "updated_by": "9eae441f-d771-42bd-ae61-e9604a745524",
+            "note": null,
+            "created_at": "2026-08-12 12:27:55"
+        },
+        {
+            "id": 4,
+            "repair_request_id": "a27a52ec-22ee-4c67-b1f3-8fed7a8d4964",
+            "status": "submitted",
+            "updated_by": "9eae441f-d771-42bd-ae61-e9604a745524",
+            "note": "Repair request submitted.",
+            "created_at": "2026-08-11 20:36:49"
+        },
+        {
+            "id": 5,
+            "repair_request_id": "a27b55dc-f0e5-4f28-9495-8b39f511c170",
+            "status": "submitted",
+            "updated_by": "9eae441f-d771-42bd-ae61-e9604a745524",
+            "note": "Repair request submitted.",
+            "created_at": "2026-08-12 08:40:53"
+        },
+        {
+            "id": 6,
+            "repair_request_id": "a27ba111-b1c0-44f5-af0a-6b03ce43e65f",
+            "status": "submitted",
+            "updated_by": "9eae441f-d771-42bd-ae61-e9604a745524",
+            "note": "Repair request submitted.",
+            "created_at": "2026-08-12 12:11:10"
+        }
+    ],
+    "completion_reports": [],
+    "user_history": [
+        {
+            "id": "a27a5188-c342-4dc4-ac45-9e17cf2fab2d",
+            "user_id": "9eae441f-d771-42bd-ae61-e9604a745524",
+            "type": "REPAIR_REQUEST",
+            "reference_id": "a27a5188-41d6-4621-b0d5-1cc5f042776d",
+            "title": "Created Repair Request",
+            "summary": "Repair request logged for issue Category: Hardware.",
+            "event_timestamp": "2026-08-11 20:32:56",
+            "created_at": "2026-08-11 20:32:56",
+            "updated_at": "2026-08-11 20:32:56"
+        },
+        {
+            "id": "a27a51c7-24b6-4bdf-b83c-220058cda60c",
+            "user_id": "9eae441f-d771-42bd-ae61-e9604a745524",
+            "type": "REPAIR_REQUEST",
+            "reference_id": "a27a51c6-c083-44ed-aef6-2d7ed46afe82",
+            "title": "Created Repair Request",
+            "summary": "Repair request logged for issue Category: PERFORMANCE_ISSUE.",
+            "event_timestamp": "2026-08-11 20:33:37",
+            "created_at": "2026-08-11 20:33:37",
+            "updated_at": "2026-08-11 20:33:37"
+        },
+        {
+            "id": "a27a5235-1634-40e1-ad67-ffa6b9d34a28",
+            "user_id": "9eae441f-d771-42bd-ae61-e9604a745524",
+            "type": "REPAIR_REQUEST",
+            "reference_id": "a27a5234-a9c6-48ba-b2b8-34bd5c428c57",
+            "title": "Created Repair Request",
+            "summary": "Repair request logged for issue Category: HARDWARE_ISSUE.",
+            "event_timestamp": "2026-08-11 20:34:49",
+            "created_at": "2026-08-11 20:34:49",
+            "updated_at": "2026-08-11 20:34:49"
+        },
+        {
+            "id": "a27a52ed-47ce-4aaa-b2b9-cfecaac9ffd7",
+            "user_id": "9eae441f-d771-42bd-ae61-e9604a745524",
+            "type": "REPAIR_REQUEST",
+            "reference_id": "a27a52ec-22ee-4c67-b1f3-8fed7a8d4964",
+            "title": "Created Repair Request",
+            "summary": "Repair request logged for issue Category: HARDWARE_ISSUE.",
+            "event_timestamp": "2026-08-11 20:36:49",
+            "created_at": "2026-08-11 20:36:49",
+            "updated_at": "2026-08-11 20:36:49"
+        },
+        {
+            "id": "a27b55de-a887-41c1-bdbd-c09bc4d23619",
+            "user_id": "9eae441f-d771-42bd-ae61-e9604a745524",
+            "type": "REPAIR_REQUEST",
+            "reference_id": "a27b55dc-f0e5-4f28-9495-8b39f511c170",
+            "title": "Created Repair Request",
+            "summary": "Repair request logged for issue Category: Network.",
+            "event_timestamp": "2026-08-12 08:40:53",
+            "created_at": "2026-08-12 08:40:53",
+            "updated_at": "2026-08-12 08:40:53"
+        },
+        {
+            "id": "a27ba113-6be2-4eae-a24a-ce48b5b61607",
+            "user_id": "9eae441f-d771-42bd-ae61-e9604a745524",
+            "type": "REPAIR_REQUEST",
+            "reference_id": "a27ba111-b1c0-44f5-af0a-6b03ce43e65f",
+            "title": "Created Repair Request",
+            "summary": "Repair request logged for issue Category: Network.",
+            "event_timestamp": "2026-08-12 12:11:10",
+            "created_at": "2026-08-12 12:11:10",
+            "updated_at": "2026-08-12 12:11:10"
+        },
+        {
+            "id": "a27ba711-6d6f-4f87-88d9-11c82f472a99",
+            "user_id": "9eae441f-d771-42bd-ae61-e9604a745524",
+            "type": "REPAIR_REQUEST",
+            "reference_id": "a27a5234-a9c6-48ba-b2b8-34bd5c428c57",
+            "title": "Repair Status Updated: CANCELLED",
+            "summary": "Status changed to cancelled.",
+            "event_timestamp": "2026-08-12 12:27:56",
+            "created_at": "2026-08-12 12:27:56",
+            "updated_at": "2026-08-12 12:27:56"
+        }
+    ]
+}

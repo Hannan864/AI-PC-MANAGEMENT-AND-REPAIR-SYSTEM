@@ -188,3 +188,21 @@ npm run dev
 - `GET /user` — Retrieve authenticated user profile
 
 ---
+## 📬 Contact & Hire Me
+
+I am actively seeking full-time roles in **Full-Stack Software Engineering, AI Engineering, Backend Systems, and Cloud Architecture**.
+
+- **Name:** Abdul Hannan
+- **Email:** [iamhannanshahid@gmail.com](mailto:iamhannanshahid@gmail.com)
+- **GitHub:** [github.com/Hannan864](https://github.com/Hannan864)
+- **LinkedIn:** [linkedin.com/in/your-profile](https://linkedin.com/in/your-profile)
+
+<div align="center">
+
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+
+**Engineered with architectural discipline, high-throughput reliability, and autonomous intelligence.**
+
+© 2026 AIITS Project • International Islamic University Islamabad
+
+</div>

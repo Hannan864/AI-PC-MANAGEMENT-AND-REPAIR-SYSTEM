@@ -1,4 +1,3 @@
-````markdown
 # AI-PC-MANAGEMENT-AND-REPAIR-SYSTEM
 
 <div align="center">
@@ -776,4 +775,3 @@ Repair workflows • Role-based portals • Service tracking • Administrative 
 © 2026 Abdul Hannan
 
 </div>
-```

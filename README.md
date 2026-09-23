@@ -741,7 +741,7 @@ These are potential extensions rather than claims about functionality currently 
 
 💻 **[GitHub](https://github.com/Hannan864)**
 
-🔗 **[LinkedIn](https://linkedin.com/in/your-profile)**
+🔗 **[LinkedIn](https://linkedin.com/in/hanstudio)**
 
 
 ### Technical Areas

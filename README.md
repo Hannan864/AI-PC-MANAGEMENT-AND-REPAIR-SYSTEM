@@ -733,8 +733,6 @@ These are potential extensions rather than claims about functionality currently 
 
 # 📬 Contact & Hire Me
 
-<div align="center">
-
 ## Abdul Hannan
 
 ### BSIT Graduate • Full-Stack Developer • AI-Integrated Applications
@@ -745,7 +743,6 @@ These are potential extensions rather than claims about functionality currently 
 
 🔗 **[LinkedIn](https://linkedin.com/in/your-profile)**
 
-</div>
 
 ### Technical Areas
 
